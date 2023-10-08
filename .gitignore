@@ -4,6 +4,6 @@ DoublyLinkedLists.sln
 DoublyLinkedLists/bin/
 DoublyLinkedLists/obj/
 DoublyLinkedLists/Properties/
-.config
-.csproj
+DoublyLinkedLists/*.config
+DoublyLinkedLists/*.csproj
 

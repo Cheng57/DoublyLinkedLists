@@ -21,7 +21,7 @@ namespace DoublyLinkedLists
         }
 
         /// <summary>
-        /// Gets or sets the head of the node.
+        /// Gets or sets the head of the list.
         /// </summary>
         public Node<T> Head
         {
@@ -29,7 +29,7 @@ namespace DoublyLinkedLists
         }
 
         /// <summary>
-        /// Gets or sets the tail of the node.
+        /// Gets or sets the tail of the list.
         /// </summary>
         public Node<T> Tail
         {
@@ -37,7 +37,7 @@ namespace DoublyLinkedLists
         }
 
         /// <summary>
-        /// Gets or sets the size of the node.
+        /// Gets or sets the size of the list.
         /// </summary>
         public int Size
         {

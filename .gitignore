@@ -1,9 +1,0 @@
-.vs
-packages/
-DoublyLinkedLists.sln
-DoublyLinkedLists/bin/
-DoublyLinkedLists/obj/
-DoublyLinkedLists/Properties/
-DoublyLinkedLists/*.config
-DoublyLinkedLists/*.csproj
-
